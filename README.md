@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/120382662-c47a3580-c2d8-11eb-8a25-b7c3eb9e48db.png">
   <br />
   Android Guide
 </h1>
@@ -30,9 +30,15 @@
 
 10. [Rust Development](https://github.com/mikeroyal/Android-Guide#rust-development)
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/120382669-c643f900-c2d8-11eb-99dc-581be857d819.png">
+  <br />
+</p>
+
+**Android 12 Beta. Source: Google (https://blog.google/products/android/android-12-beta/)**
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/120382702-cfcd6100-c2d8-11eb-897e-1cab10ca1a0d.png">
   <br />
 </p>
 
@@ -85,7 +91,7 @@
 [F-Droid](https://f-droid.org/) is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/120382708-d0fe8e00-c2d8-11eb-86ae-777617020425.png">
 </p>
 
 [Android Package Kit(APK)](https://developer.android.com/google/play/expansion-files) is the standard file format for mobile apps used in the Android operating system similar to a .exe file in Windows.
