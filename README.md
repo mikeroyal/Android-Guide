@@ -14,7 +14,7 @@
 
 2. [Getting Software and Apps on Android](https://github.com/mikeroyal/Android-Guide#getting-software-and-apps-on-android)
 
-3. [Android Tools & Frameworks](https://github.com/mikeroyal/Android-Guide#android-tools-and-frameworks)
+3. [Android Tools & Frameworks](https://github.com/mikeroyal/Android-Guide#android-tools--frameworks)
 
 4. [Firebase Development](https://github.com/mikeroyal/Android-Guide#firebase-development)
 
@@ -35,7 +35,7 @@
   <br />
 </p>
 
-**Android 12 Beta. Source: Google (https://blog.google/products/android/android-12-beta/)**
+**Android 12 Beta. Source: [Google] (https://blog.google/products/android/android-12-beta/)**
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/120382702-cfcd6100-c2d8-11eb-897e-1cab10ca1a0d.png">
